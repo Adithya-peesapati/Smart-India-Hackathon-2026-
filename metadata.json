@@ -1,0 +1,6 @@
+{
+  "name": "AgriSetu",
+  "description": "Smart agricultural procurement platform for farmers to book slots, track live queues, and monitor procurement and payments transparently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
